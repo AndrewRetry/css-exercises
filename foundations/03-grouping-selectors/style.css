@@ -1,0 +1,12 @@
+.btn {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.btn.bgblack {
+    background-color: black;
+    color: white;
+}
+.btn.bgyellow {
+    background-color: yellow;
+}
