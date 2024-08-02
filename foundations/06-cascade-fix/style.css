@@ -3,7 +3,6 @@ body {
 }
 
 .para {
-  color: hsl(0, 0%, 0%);
   font-weight: 800;
   font-size: 22px;
 }
@@ -12,11 +11,8 @@ body {
   font-size: 14px;
 }
 
-
-
 .button {
-  background-color: rgb(255, 255, 255);
-  color: rgb(0, 0, 0);
+  background-color: white;
   font-size: 20px;
 }
 
@@ -27,12 +23,10 @@ body {
 } 
 
 .text {
-  color: rgb(0, 0, 0);
   font-size: 22px;
   font-weight: 100;
 }
 .child {
-  color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
 }
